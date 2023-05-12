@@ -1,5 +1,6 @@
 # Appliance-Energy-Prediction-Regression-Capstone-project-
 Summary
+
 This data set contains information on the energy usage of appliances in a house, collected over a period of approximately 4.5 months at 10 minute intervals. The temperature and humidity of the house were monitored using a wireless sensor network, with each node transmitting data every 3.3 minutes. This data was then averaged over 10 minute periods. Energy usage data was also logged every 10 minutes using m-bus energy meters. In addition, weather data from the nearest airport weather station in Chievres Airport, Belgium was downloaded from a public data set and merged with the experimental data using the date and time column. Two random variables were included in the data set to test regression models and filter out non-predictive attributes. The data set includes the following columns:
 
 date: the date in year-month-day format time: the time in hour:minute:second format Appliances: the energy use of appliances in the house in Watt-hours (Wh), which is the dependent variable being predicted
